@@ -1,4 +1,6 @@
 # Microprocessor_Exercise2_SPI
+Link for this github public repository : https://github.com/marinmts/Microprocessor_Exercise2_SPI
+
 This repository contain 3 files :
   - Exercise2_SPI.sim1 is the simulation circuit using SimulIDE
   - Master_main.asm is the program to be load (after it built with Microchip Studio, .hex file) in the MCU mega324-1_Master
