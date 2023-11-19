@@ -4,7 +4,7 @@ This repository contain 3 files :
   - Master_main.asm is the program to be load (after it built with Microchip Studio, .hex file) in the MCU mega324-1_Master
   - Slave_main.asm is the program to be load (after it built with Microchip Studio, .hex file) in the MCU mega324-2_Slave
 
-A simulation has already done and recorded. Find below the link to watch in on Youtube
+A simulation has already done and recorded.
 Record link : https://youtu.be/G6VPbCtdsUY
 
 Comments :
